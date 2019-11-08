@@ -2,23 +2,23 @@
 
 An Android application that tracks the user's sleep quality.
 
-Submitted by: <name>
+Submitted by: Amanda Tustin
 
-Time spent: <time>
+Time spent: 
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Create entity using Room annotations.
-* [ ] Create Data Access Object (DAO) interface.
-* [ ] Add SQL queries to Data Access Object (DAO).
-* [ ] Create a Room database.
-* [ ] Add ViewModel.
-* [ ] Implement coroutines to separate main/UI thread from other operations.
-* [ ] Add navigation and ability to record sleep quality.
-* [ ] Implement button states to prevent incorrect user choice.
-* [ ] Add Snackbar message indicating the clearing of all data from the database.
+* [X] Create entity using Room annotations.
+* [X] Create Data Access Object (DAO) interface.
+* [X] Add SQL queries to Data Access Object (DAO).
+* [X] Create a Room database.
+* [X] Add ViewModel.
+* [X] Implement coroutines to separate main/UI thread from other operations.
+* [X] Add navigation and ability to record sleep quality.
+* [X] Implement button states to prevent incorrect user choice.
+* [X] Add Snackbar message indicating the clearing of all data from the database.
 
 The following **additional** features are implemented:
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Sleep Tracker animated demo' alt='Sleep Tracker demo' />
+<img src='sleep_tracker_demo.gif' title='Sleep Tracker animated demo' alt='Sleep Tracker demo' />
 
 ## Notes
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 Amanda Tustin
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
